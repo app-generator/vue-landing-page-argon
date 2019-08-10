@@ -12,6 +12,7 @@
   "dependencies": {
     "bootstrap-vue": "^2.0.0-rc.11",
     "flatpickr": "^4.5.1",
+    "ftp-deploy": "^2.3.3",
     "nouislider": "^11.1.0",
     "register-service-worker": "^1.5.2",
     "vue": "^2.6.6",
