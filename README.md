@@ -2,6 +2,8 @@
 
 Open-Source [Vue](https://vuejs.org/) landing page styled with [Argon Design System](https://www.creative-tim.com/product/vue-argon-design-system).
 
+<br />
+
 ![Vue Landing Page - Open-Source Argon Design.](https://raw.githubusercontent.com/app-generator/static/master/products/vue-landing-page-argon-intro.gif)
 
 <br />
