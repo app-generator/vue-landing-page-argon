@@ -1,6 +1,7 @@
-# [Vue Landing Pages](https://vue-landing-page-argon.appseed.us/)
+# [Vue Landing Page](https://vue-landing-page-argon.appseed.us/)
 
-Open-Source [Vue](https://vuejs.org/) landing pages styled with [Argon Design System](https://www.creative-tim.com/product/vue-argon-design-system).
+Open-Source [Vue](https://vuejs.org/) landing page styled with [Argon Design System](https://www.creative-tim.com/product/vue-argon-design-system).
+
 
 <br />
 
@@ -28,4 +29,4 @@ Open-Source [Vue](https://vuejs.org/) landing pages styled with [Argon Design Sy
 <br />
 
 ---
-[Vue Landing Pages](https://vue-landing-page-argon.appseed.us/) - provided by **AppSeed**
+[Vue Landing Page](https://vue-landing-page-argon.appseed.us/) - provided by **AppSeed**
